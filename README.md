@@ -205,3 +205,9 @@ This software is provided **for educational purposes only**, to demonstrate tech
 ## License
 
 MIT License — see [LICENSE](LICENSE)
+
+---
+
+🔥 Telegram: [@antivibedrake](https://t.me/antivibedrake) · [@zakurulife](https://t.me/zakurulife)
+
+Только для личного использования — см. [DISCLAIMER.md](DISCLAIMER.md).
